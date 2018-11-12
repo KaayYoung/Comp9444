@@ -16,6 +16,6 @@ Main Topics:
 11. Generative Models (GAN)
 12. Image and Language Processing
 
-Assignment 1: Digit Recognition
-Assignment 2: Sentiment Classification
-Assignment 3: Deep Reinforcement Learning (Model is from openai.gym)
+Assignment 1: Digit Recognition                            
+Assignment 2: Sentiment Classification                               
+Assignment 3: Deep Reinforcement Learning (Model is from openai.gym)                         
